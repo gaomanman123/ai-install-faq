@@ -17,7 +17,7 @@
 打开终端，一行命令搞定：
 
 ```bash
-git clone https://github.com/你的用户名/ai-install-faq.git ~/.agents/skills/ai-install-faq
+git clone https://github.com/gaomanman123/ai-install-faq.git ~/.agents/skills/ai-install-faq
 ```
 
 然后**重启豆包**就可以用了！
@@ -99,5 +99,5 @@ ai-install-faq/
 
 ---
 
-**小红书**：@你的账号名
+**小红书**：@高慢慢
 **觉得有用记得 Star ⭐ 一下～**
